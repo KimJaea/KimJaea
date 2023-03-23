@@ -25,5 +25,6 @@
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB.svg?style=for-the-badge&logo=Xcode&logoColor=white)
 
 # Projects
-
+[재활용 트래킹 플랫폼](https://github.com/KimJaea/AceProject)
+[뇌파측정기기와 인공지능을 통한 우울증 측정 서비스](https://github.com/KimJaea/JaeJu-Three.js)
 
