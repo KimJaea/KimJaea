@@ -53,3 +53,4 @@
 
 [뇌파측정기기와 인공지능을 통한 우울증 측정 서비스](https://github.com/KimJaea/JaeJu-Three.js)
 
+[SmartThings를 이용한 알림 시각화(오픈소스 기여 프로젝트)](https://github.com/GOOD-I-DEER)
