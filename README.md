@@ -49,8 +49,8 @@
 
 
 ## Projects
-[재활용 트래킹 플랫폼](https://github.com/KimJaea/AceProject)
+[SmartThings를 이용한 알림 시각화(오픈소스 기여 프로젝트)](https://github.com/GOOD-I-DEER)
+
+[재활용 트래킹 플랫폼: 재활용 쓰레기 추적 및 재활용 독려 서비스](https://github.com/KimJaea/AceProject)
 
 [뇌파측정기기와 인공지능을 통한 우울증 측정 서비스](https://github.com/KimJaea/JaeJu-Three.js)
-
-[SmartThings를 이용한 알림 시각화(오픈소스 기여 프로젝트)](https://github.com/GOOD-I-DEER)
