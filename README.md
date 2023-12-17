@@ -17,25 +17,25 @@
 <!--![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)-->
 
 ## Frameworks & Libraries
-![Spring](https://img.shields.io/badge/spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
-![SpringBoot](https://img.shields.io/badge/spring%20boot-6DB33F.svg?&style=for-the-badge&logo=SpringBoot&logoColor=white)
-![MyBatis](https://img.shields.io/badge/mybatis-000000.svg?&style=for-the-badge&logo=MyBatis&logoColor=white)
-
 ![Vue.js](https://img.shields.io/badge/vue.js-4FC08D.svg?&style=for-the-badge&logo=Vue.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=black)
 ![Redux](https://img.shields.io/badge/Redux-764ABC.svg?&style=for-the-badge&logo=Redux&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000.svg?&style=for-the-badge&logo=threedotjs&logoColor=white)
 
+![Spring](https://img.shields.io/badge/spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/spring%20boot-6DB33F.svg?&style=for-the-badge&logo=SpringBoot&logoColor=white)
+![MyBatis](https://img.shields.io/badge/mybatis-000000.svg?&style=for-the-badge&logo=MyBatis&logoColor=white)
+
 <details>
   <summary><h2>View More Skills...</h2></summary>
   
 ## Tools
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=visual-studio-Code&logoColor=white)
-![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-525C86.svg?style=for-the-badge&logo=Eclipse-IDE&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=Android-studio&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-147EFB.svg?style=for-the-badge&logo=Xcode&logoColor=white)
+![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-525C86.svg?style=for-the-badge&logo=Eclipse-IDE&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-FFFFFF.svg?style=for-the-badge&logo=Unity&logoColor=black)
+<!--![Xcode](https://img.shields.io/badge/Xcode-147EFB.svg?style=for-the-badge&logo=Xcode&logoColor=white)-->
 <!--![IntelliJ](https://img.shields.io/badge/intellij-000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white)-->
 
 ## Team
