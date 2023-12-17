@@ -26,7 +26,9 @@
 ![Redux](https://img.shields.io/badge/Redux-764ABC.svg?&style=for-the-badge&logo=Redux&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000.svg?&style=for-the-badge&logo=threedotjs&logoColor=white)
 
-
+<details>
+  <summary><h2>View More Skills...</h2></summary>
+  
 ## Tools
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=visual-studio-Code&logoColor=white)
@@ -36,12 +38,6 @@
 ![Unity](https://img.shields.io/badge/Unity-FFFFFF.svg?style=for-the-badge&logo=Unity&logoColor=black)
 <!--![IntelliJ](https://img.shields.io/badge/intellij-000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white)-->
 
-## Graphic
-![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6.svg?style=for-the-badge&logo=Adobe-XD&logoColor=white)
-![3ds Max](https://img.shields.io/badge/3ds%20Max-09a1a1.svg?style=for-the-badge&logo=3ds-Max&logoColor=white)
-
-
 ## Team
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)
@@ -49,6 +45,14 @@
 ![Jira](https://img.shields.io/badge/Jira-0052CC.svg?style=for-the-badge&logo=Jira&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B.svg?style=for-the-badge&logo=Slack&logoColor=white)
 ![Mattermost](https://img.shields.io/badge/Mattermost-0058CC.svg?style=for-the-badge&logo=Mattermost&logoColor=white)
+
+
+## Graphic
+![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6.svg?style=for-the-badge&logo=Adobe-XD&logoColor=white)
+![3ds Max](https://img.shields.io/badge/3ds%20Max-09a1a1.svg?style=for-the-badge&logo=3ds-Max&logoColor=white)
+
+</details>
 
 
 ## Projects
