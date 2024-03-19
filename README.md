@@ -1,5 +1,4 @@
 # KIM JAEA
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rkddnjs58)](https://solved.ac/rkddnjs58/) &nbsp; &nbsp; &nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KimJaea&layout=compact)](https://github.com/KimJaea/github-readme-stats)
 <!--![KimJaea's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimJaea&show_icons=true&theme=ambient_gradient)-->
 
